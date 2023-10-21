@@ -19,11 +19,11 @@ h1 {
 }
 
 form {
-    background-color: white;
-    max-width: 400px;
+   background-color: white;
+    max-width: 500px;
     margin: 0 auto;
-    padding: 20px;
-    border-radius: 8px;
+    padding: 70px;
+    border-radius: 100px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
